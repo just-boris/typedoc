@@ -1,5 +1,9 @@
 # TypeDoc
 
+**About this fork**
+
+This fork exists to have a version with latest Typescript support while it is not yet released in the main project: https://github.com/TypeStrong/typedoc/issues/1015
+
 > Documentation generator for TypeScript projects.
 
 [![Build Status](https://travis-ci.org/TypeStrong/typedoc.svg?branch=master)](https://travis-ci.org/TypeStrong/typedoc)
